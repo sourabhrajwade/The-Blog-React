@@ -1,16 +1,16 @@
 {
-    "blogs": [
+  "blogs": [
     {
-       "title": "My First Blog",
-        "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by dis kind of argumments",
-        "author": "Sourabh",
-        "id": 1
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by dis kind of argumments",
+      "author": "Sourabh",
+      "id": 1
     },
     {
-        "title": "My Second Blog",
-         "body": "Why don't we use it?\nIt is a long established fact that a reader will be distracted by dis kind of argumments",
-         "author": "Arti",
-         "id": 2
-     }
-    ]
+      "title": "My Second Blog",
+      "body": "Why don't we use it?\nIt is a long established fact that a reader will be distracted by dis kind of argumments",
+      "author": "Arti",
+      "id": 2
+    }
+  ]
 }
